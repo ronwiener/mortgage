@@ -1,0 +1,42 @@
+#table {
+    border-width: 3px;
+    border-color: black;
+}
+
+
+#tableHead {
+    text-align: center;
+    font-size: 3em;
+    color: #345C75;
+    font-weight: 600;
+       
+}
+
+#headRow {
+    background-color: lightsteelblue;
+    text-align: center;
+    font-size: 17px;
+    font-weight: 600;
+    border: 3px solid black;
+    
+}
+
+.deleteButton {
+    font-size: 10px;
+    background-color: red;
+    border: 2px solid black;
+    border-radius: 20%;
+    color: white;
+    margin: 2px;
+    height: 50px;
+}
+
+.updateButton {
+    font-size: 10px;
+    background-color: green;
+    border: 2px solid black;
+    border-radius: 20%;
+    color: white;
+    margin: 2px;
+    height: 50px;
+}

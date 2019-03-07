@@ -1,0 +1,61 @@
+#buttonSubmit {
+    background-color: blue;
+    color: white;
+    margin-left: 20%;
+    margin-top: 6px;
+    height: 40px;
+    width: 85px;
+    border: 2px solid black;
+    border-radius: 20%;
+}
+
+#buttonSubmit:hover {
+    background-color: white;
+    border: 2px solid black;
+    color: black;
+}
+
+#buttonToggle {
+    background-color: blue;
+    color: white;
+    height: 50px;
+    width: 70px;
+    margin-left: 10px;
+    border: 2px solid black;
+    border-radius: 20%;
+}
+
+    #buttonToggle:hover {
+        background-color: white;
+        border-color: black;
+        color: black;
+    }
+
+    #buttonToggleOne {
+        background-color: blue;
+        color: white;
+        height: 50px;
+        width: 70px;
+        margin-left: 20px;
+        padding: 2px;
+        border: 2px solid black;
+        border-radius: 20%;
+    }
+
+        #buttonToggleOne:hover {
+            background-color: white;
+            border-color: black;
+            color: black;
+        }
+
+#label {
+    margin-left: 30%;
+}
+
+#h1 {
+    margin-bottom: 5%;
+    margin-left: 14%;
+    color: white;
+    text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+    
+}

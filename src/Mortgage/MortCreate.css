@@ -1,0 +1,56 @@
+#divHeader {
+    width: 50vw;
+    height: 20vh;
+    background-color: #A4BCB4;
+    text-align: center;
+    border: 2px solid black;
+    border-radius: 14px;
+    box-shadow: 3px 10px 28px #888888;
+    margin-top: 8px;
+    margin-left: 18%;
+}
+
+#h1Text {
+    color: black;
+    padding: 1em;
+    
+}
+
+#hereButton {
+    background-color: #3A9E92;
+    color: black;
+    border: 1px solid black;
+    border-radius: 50%;
+    font-size: 18px;
+    font-weight: 600;
+    margin-left: 20px;
+}
+
+#hereButton:hover {
+    background-color: white;
+    color: black;
+}
+
+#modalHeader {
+    color: red;
+    margin-left: 25%;
+}
+
+
+#closer {
+    margin-left: 95%;
+    color: red;
+}
+
+#submitButton {
+    background-color: blue;
+    color: white;
+    margin-left: 40%;
+    border: 2px solid black;
+    border-radius: 8px;
+}
+
+#submitButton:hover {
+    background-color: lightblue;
+    color: black;
+}
